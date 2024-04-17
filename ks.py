@@ -1,1 +1,1 @@
-pass = [["nils2021"], ["comander2022"], ["FnV-EgD-fFF-VVs"]]
+pass = [["nils2024"], ["comander2022"], ["FnV-EgD-fFF-VVs"]]
